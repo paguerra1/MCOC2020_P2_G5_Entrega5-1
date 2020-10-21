@@ -13,7 +13,7 @@
 ![Captura de pantalla (12)](https://user-images.githubusercontent.com/69210578/96666138-e2d48780-132c-11eb-9fef-0625ebb6f6fc.png)
 
 * Solo incluyendo lo presentado en las imágenes, sin columnas.
-* Para las barras  en el eje x se utilizaron estas propiedades: props:  [8*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
+* Para las barras  en el eje x se utilizaron estas propiedades: props:  [7*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
 * Para las barras en relación al eje y,z se utilizaron estas propiedades: props2 = [11*cm, 14*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
 
 * Este diseño presentó algunos errores, donde no se cumplia con los requerimientos básicos de los factores de utilización, esbeltez menor a 300.
