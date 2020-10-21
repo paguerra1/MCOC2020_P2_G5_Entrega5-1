@@ -50,7 +50,7 @@ def caso_D():
         
     #Barras
     
-    props = [7*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
+    props = [3*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
     props2 = [11*cm, 14*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
     for i in range(0,94):
         ret.agregar_barra(Barra(i,i+2,*props2)) #eje x
