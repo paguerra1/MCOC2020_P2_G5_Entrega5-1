@@ -25,7 +25,7 @@
 # Diseño final
 
 * El nuevo diseño fue ejecutado de forma similar al anterior, pero esta vez con columnas, como se aprecia en la imagen.
-* Para solucionar el problema anterior, se aumentaron las dimensiones de las barras en cuestión, para así aumentar la rigidez del elemento, cumpliendo finalmente con los dos requisitos.
+* Para solucionar el problema anterior, se aumentaron las dimensiones de las barras en cuestión, para así aumentar la rigidez del elemento, cumpliendo finalmente con los dos requisitos. Lo anterior se logró analizando las barras específicas que no cumplían con los requerimientos.
 * Cumpliendo con todos los requerimientos de factores de utilización
 *  Las propiedades  de las barras  utilizadas fueron las siguientes:
 * props = [8*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
