@@ -32,4 +32,4 @@
 * props = [8*cm, 5*mm, 200*GPa, 7600*kg/m**3, 420*MPa]
 * props2 = [12*cm, 15*mm, 200*GPa, 7600*kg/m**3, 420*MPa] (barras que soportan el tablero correspondientes al eje x)
 * props3 = [13*cm, 15*mm, 200*GPa, 7600*kg/m**3, 420*MPa] (barras que soportan el tablero correspondientes al eje y)
-* Finalmente, se concluye que el peso final del puente fue 486 toneladas
+* Finalmente, se concluye que el peso final del puente fue 386 toneladas
